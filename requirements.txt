@@ -1,0 +1,13 @@
+voila
+ipywidgets
+numpy
+pandas
+matplotlib
+plotly
+scipy
+os
+math
+random
+json
+IPython.display
+IPython.core.display
