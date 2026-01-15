@@ -5,6 +5,5 @@ pandas
 matplotlib
 plotly
 scipy
-math
 random
 IPython
