@@ -7,5 +7,4 @@ plotly
 scipy
 math
 random
-IPython.display
-IPython.core.display
+IPython
