@@ -5,7 +5,6 @@ pandas
 matplotlib
 plotly
 scipy
-os
 math
 random
 json
